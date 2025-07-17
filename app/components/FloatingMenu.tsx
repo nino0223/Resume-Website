@@ -1,6 +1,5 @@
-import { CodeXmlIcon, ContactIcon, HomeIcon, icons, User, UserIcon } from 'lucide-react';
+import { CodeXmlIcon, ContactIcon, HomeIcon, UserIcon } from 'lucide-react';
 import React from 'react'
-import Link from 'next/link';
 
 const FloatingMenu = () => {
   return (
